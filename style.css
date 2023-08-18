@@ -5,11 +5,12 @@ body{
 }
 .bolo{
     height: 100%;
-    width: 90%;
+    width: 60%;
     background-color: white;
     margin:auto;
     padding: 20px;
     font-size: 17pt;
+    border-radius:9px;
 }
 .tit{
     font-size: 50pt;
