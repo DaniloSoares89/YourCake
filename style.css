@@ -3,20 +3,22 @@ body{
     background-attachment: fixed;
     
 }
-.bolo{
+.main{
     height: 100%;
     width: 80%;
     background-color: white;
-    margin:auto;
     padding: 20px;
     font-size: 17pt;
     border-radius:9px;
+    margin:auto;
+   
 }
 .tit{
     font-size: 50pt;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-align: center;
+   
 }
 .bolo h1,h2{
     text-align: center;
@@ -37,11 +39,13 @@ body{
     text-align: center;
     text-decoration: none;
     font-size: 30px;
+    
 }
  .link2 a{
     text-align: center;
     text-decoration: none;
     font-size: 30px;
+  
 }
 
 .link a:hover{
@@ -50,19 +54,17 @@ body{
     transition: 2s;
     
     
+    
 }
 .link a:hover{
     background-color:;
     color:white;
     transition: 2s;
+    padding:4px;
     
     
 }
-.link2 a:hover{
-    background-color:  rgb(72, 72, 250);
-    color:white;
-    transition: 2s;   
-}
+
 .bom{
     text-align: center;
 }
